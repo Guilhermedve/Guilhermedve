@@ -16,20 +16,6 @@
 
 ---
 
-## 📊 Estatísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guilhermedve\&show_icons=true\&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermedve\&layout=compact\&theme=tokyonight)
-
----
-
-## 🐍 Snake (meus commits)
-
-![Snake animation](https://github.com/guilhermedve/guilhermedve/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ## ⚡ Sobre mim
 
 * 🎯 Buscando estágio em desenvolvimento
