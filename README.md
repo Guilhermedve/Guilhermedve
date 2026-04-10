@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Fala aí, eu sou o Guilherme
 
-<!--
-**Guilhermedve/Guilhermedve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante de Ciência da Computação
+🚀 Focado em desenvolvimento Full Stack
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge\&logo=spring\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge\&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge\&logo=typescript)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge\&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js)
+
+---
+
+## 📊 Estatísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guilhermedve\&show_icons=true\&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermedve\&layout=compact\&theme=tokyonight)
+
+---
+
+## 🐍 Snake (meus commits)
+
+![Snake animation](https://github.com/guilhermedve/guilhermedve/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## ⚡ Sobre mim
+
+* 🎯 Buscando estágio em desenvolvimento
+* 📚 Aprendendo React, Next.js e backend com Java
+* 🚀 Construindo projetos para portfólio
+
+---
+
+## 📫 Contato
+
+* Email: [seuemail@email.com](mailto:seuemail@email.com)
