@@ -1,8 +1,6 @@
 # 👋 Fala aí, eu sou o Guilherme
 
 💻 Estudante de Ciência da Computação
-🚀 Focado em desenvolvimento Full Stack
-
 ---
 
 ## 🛠️ Tecnologias
@@ -18,8 +16,6 @@
 
 ## ⚡ Sobre mim
 
-* 🎯 Buscando estágio em desenvolvimento
-* 📚 Aprendendo React, Next.js e backend com Java
 * 🚀 Construindo projetos para portfólio
 
 ---
