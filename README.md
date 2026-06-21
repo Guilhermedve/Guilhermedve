@@ -55,7 +55,7 @@
 
 | Projeto | Descrição | Stack |
 |---|---|---|
-| 🔗 [Encurtador de Links](https://encurtador-front-six.vercel.app) | Encurtador de URLs com frontend próprio | React, Next.js |
+| 🔗 [Encurtador de Links](https://encurtador-front-six.vercel.app) | Encurtador de URLs com frontend próprio | react, java ,springboot|
 | 💰 Gestor Financeiro Pessoal | Dashboard de finanças com autenticação JWT e gráficos | NestJS, Prisma, Next.js, Recharts |
 | 📡 Laboratório de Simulação IoT | Simulação de sensores publicando via MQTT, com persistência em banco | Docker, Mosquitto, Node.js, MariaDB |
 |  📜 Gerador de pdf's | Obtem dados brutos do banco em produção via tunnel SSH e converte em pdf estilizado e apropriado para logo/empresa | nest, type orm, mariadb SSH e lib pupetteer para pdfs| 
