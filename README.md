@@ -16,7 +16,7 @@
 - 🎓 Cursando **Ciência da Computação** no Centro Universitário Farias Brito (Fortaleza, CE)
 - 💼 Estagiário na **3v3 Tecnologia**, atuando com automação e IoT no agronegócio — passo pelo fluxo completo de dados, de sensores em campo até banco, com Linux, Docker, MariaDB, MQTT e infraestrutura de rede
 - 🚀 Construindo projetos para portfólio com foco em backend e system design.
-- 🌱 Estudando Devops, Q&a, bancos de dados relacionais e arquitetura de sistemas
+- 🌱 Estudando Devops, Q&a e arquitetura de sistemas
 
 ---
 
