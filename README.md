@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/guilhermecostadve" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:guilhermecontatoemp@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -59,6 +59,7 @@
 | 🔗 [Encurtador de Links](https://encurtador-front-six.vercel.app) | Encurtador de URLs com frontend próprio | React, Next.js |
 | 💰 Gestor Financeiro Pessoal | Dashboard de finanças com autenticação JWT e gráficos | NestJS, Prisma, Next.js, Recharts |
 | 📡 Laboratório de Simulação IoT | Simulação de sensores publicando via MQTT, com persistência em banco | Docker, Mosquitto, Node.js, MariaDB |
+|  📜 Gerador de pdf's | Obtem dados brutos do banco em produção via tunnel SSH e converte em pdf estilizado e apropriado para logo/empresa | nest, type orm, mariadb SSH e lib pupetteer para pdfs| 
 
 ---
 
