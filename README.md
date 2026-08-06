@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/banner-github.png" alt="Banner do perfil de Guilherme Costa" />
+</p>
+
 <h1 align="center">Olá, eu sou o Guilherme 👋</h1>
 <p align="center">
   Estudante de Ciência da Computação | Estagiário em Backend/IoT | Rumo a DevOps & Cloud
