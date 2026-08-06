@@ -51,11 +51,10 @@
 
 | Projeto | Descrição | Stack |
 |---|---|---|
-| 📜 **API de Geração de PDFs** | Serviço interno que consulta dados de produção via túnel SSH, processa em fila e gera relatórios em PDF estilizados. Arquitetura dividida em duas APIs (dados e renderização), com cache em Redis, controle de concorrência e deploy automatizado via GitHub Actions + Watchtower | NestJS, TypeORM, MariaDB, BullMQ, Redis, Puppeteer, Docker |
+| 📊 **API de Cálculo (dados)** | Consulta dados de produção via túnel SSH, processa e cacheia os resultados em Redis, expondo apenas o JSON consumido pela API de PDF | NestJS, TypeORM, MariaDB, Redis, Docker |
+| 📜 **API de Renderização de PDF** | Consome o JSON da API de Cálculo, processa em fila e gera relatórios em PDF estilizados via Chromium. Controle de concorrência e deploy automatizado via GitHub Actions + Watchtower | NestJS, BullMQ, Redis, Puppeteer, Docker |
 | 📡 **Monitoramento de Frota (Raspberry Pi)** | Automação que monitora remotamente uma frota de dispositivos Linux via SSH, com inventário dinâmico em Google Sheets, relatórios diários por e-mail e alertas automáticos quando CPU/RAM/disco ultrapassam limites | n8n, SSH, Google Sheets API, Google Cloud OAuth2 |
-| 💰 **Gestor Financeiro Pessoal** *(em andamento)* | Dashboard de finanças pessoais com autenticação JWT e visualização de dados em gráficos | NestJS, Prisma, Next.js, Recharts |
 | 🔗 **Encurtador de Links** | Encurtador de URLs com frontend próprio, em processo de deploy em instância EC2 | React, Java, Spring Boot |
-| 📶 **Laboratório de Simulação IoT** | Simulação de sensores publicando via MQTT, com persistência em banco — construído para se preparar para o estágio | Docker, Mosquitto, Node.js, MariaDB |
 
 ---
 
